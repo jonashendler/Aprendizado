@@ -4,4 +4,4 @@ Essa programação foi realizada com base na aula Python para Iniciantes - Do Ze
 
 Com o objetivo de introduzir o Python e seus comando básicos, foi proposto como exercício, avaliar quanto seria necessario gastar para preencher um álbum de figurinhas.
 
-*Em construção*
+**Em construção**
